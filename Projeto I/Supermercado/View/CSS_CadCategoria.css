@@ -1,0 +1,115 @@
+
+		#clientes{
+			font-size: 16px;
+			background: #CCC;
+			width: 520px;
+			margin: 0 auto;
+			padding: 150px 25px 320px 30px;
+
+
+
+		}
+		body{background-color: black;}
+
+		
+		h4{
+			color: #222;
+			text-align: center;
+			font-size: 30px;
+
+
+		}
+		input, textarea{
+			width: 510px;
+			font-size: 16px;
+			padding: 10px 0px 0px 10px;
+
+		}
+		form, label{
+			font-size: 25px;
+
+
+		}
+
+		form .enviar input{
+			background-color: #069;
+			width: 100%;
+			height: 50px;
+			padding: 5px;
+			font-size: 30px;
+			cursor: pointer;
+			position: center;
+			color: #fff;
+			border-radius: 10px;
+			
+
+
+		}
+		
+
+		.enviar input:hover{
+
+			background: red;
+		}
+		
+
+		#direito{
+				float:right;
+				width: 390px;
+				height: 600px;
+				background-color: #FFF;
+				position: absolute;
+				left:960px;
+				top: 150px;
+				background: black;
+				border: 0px;
+				
+
+		}
+		#esquerdo{
+				width: 409px;
+				height: 600dpx;
+				background-color: #FFF;
+				position: absolute;
+				top: 150px;
+				border: 0px;
+				background: black;
+				left: 0px;
+
+		}
+		#tp:hover{
+
+			background-color: #3A2C2C;
+		}
+
+
+			#tp{
+			width: 100%;
+			top: 0px;
+			left: 0px;
+			height: 170px;
+			background: black;
+			position: absolute;
+			margin: 0px;
+			border: 10px;
+			padding: 0px 0px 0px 0px;
+
+		}
+		
+		#tp, h1{
+			top: -20px;
+			font-size: 80px;
+			text-align: center;
+			font-weight: bold;
+			color: white;
+			
+			
+			
+
+
+		}
+		
+		
+
+		
+
